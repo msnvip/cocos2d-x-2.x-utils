@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FileName</key>
+	<string>Pic_Live_Normal_19_March_</string>
+	<key>Range</key>
+	<string>{0, 13}</string>
+	<key>Extension</key>
+	<string>png</string>
+	<key>Delay</key>
+	<real>0.035</real>
+	<key>Loop</key>
+	<integer>1</integer>
+	<key>RestoreOriginFrame</key>
+	<true/>
+	<key>Frames</key>
+	<array>
+		<dict>
+			<key>Index</key>
+			<integer>0</integer>
+			<key>DelayUnits</key>
+			<real>1.5</real>
+			<key>UserInfo</key>
+			<array>
+				<string>The FrameIndex is 0.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Index</key>
+			<integer>12</integer>
+			<key>DelayUnits</key>
+			<integer>10</integer>
+			<key>UserInfo</key>
+			<array>
+				<string>The FrameIndex is 12.</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

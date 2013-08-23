@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AnimatorFile</key>
+	<string>Animator_Animator.plist</string>
+	<key>AnimatorDataFile</key>
+	<string>Animator_AnimatorData.plist</string>
+</dict>
+</plist>
